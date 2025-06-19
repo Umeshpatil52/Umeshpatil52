@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Umesh Patil
 
-<!--
-**Umeshpatil52/Umeshpatil52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electrical Engineer | Aspiring Data Scientist  
+🔍 Passionate about Python, Machine Learning & Data Insights  
+📚 Currently building projects and sharpening skills in SQL, ML, and AI
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- Python, SQL, Pandas, NumPy
+- Machine Learning: Regression, Decision Trees, Random Forest
+- Basic Deep Learning (Neural Nets), NLP (Tokenization)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Current Goals
+- Complete mini-projects on Data Science
+- Share learnings & notebooks on GitHub
+- Get certified in Python, SQL, and ML
+
+Let's connect and learn together!
